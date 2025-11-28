@@ -1,3 +1,7 @@
+**Lướt xuống để xem code**
+![Bài 1](img/bai1.png)
+![Bài 2](img/bai2.png)
+![Bài 3](img/bai3.png)
 <details>
 <summary><strong>(Click to expand)</strong></summary>
 
@@ -144,6 +148,3 @@ draw_dot_number(x)
 
 
 
-![Bài 1](img/bai1.png)
-![Bài 2](img/bai2.png)
-![Bài 3](img/bai3.png)
