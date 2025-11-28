@@ -1,4 +1,4 @@
-**Lướt xuống để xem code**
+**Lướt xuống để xem code or xem file main.py**
 
 
 
