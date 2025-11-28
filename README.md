@@ -1,4 +1,8 @@
 **Lướt xuống để xem code**
+
+
+
+
 ![Bài 1](img/bai1.png)
 ![Bài 2](img/bai2.png)
 ![Bài 3](img/bai3.png)
@@ -145,6 +149,3 @@ def draw_dot_number(n):
 draw_dot_number(x)
 
 </details>
-
-
-
