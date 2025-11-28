@@ -1,5 +1,6 @@
 <details>
-  <summary>Click to expand</summary>
+<summary><strong>(Click to expand)</strong></summary>
+
 ```python
 print("Bai 1")
 print("Nhap 2 so m va n de in ra man hinh chu nhat")
@@ -138,7 +139,11 @@ def draw_dot_number(n):
 
 
 draw_dot_number(x)
-```
-![Output khi giải bài 1 này](bai1.png)
-![Output khi giải bài 2 này](bai2.png)
-![Output khi giải bài 3 này](bai3.png)
+
+</details>
+
+
+
+![Bài 1](img/bai1.png)
+![Bài 2](img/bai2.png)
+![Bài 3](img/bai3.png)
